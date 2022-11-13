@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PETSHOPPINNG</string>
+    <string name="title_activity_home">Home</string>
+    <string name="Registrese">Registrese</string>
+    <string name="Ubicación">Ubicación</string>
+    <string name="Nosotros">Nosotros</string>
+    <string name="title_activity_ubicacion">Ubicacion</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Ingreso">Ingreso</string>
+    <string name="Productos">Productos</string>
+    <string name="Clientes">Clientes</string>
+    <string name="Title_activity_Nosotros">Nosotros</string>
+    <string name="Title_activity_Productos">Productos</string>
+    <string name="Loginusuario">Ingrese</string>
+    <string name="Homego">Home</string>
+    <string name="Return">Regresar</string>
+</resources>
